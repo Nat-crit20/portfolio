@@ -1,5 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 header {
+  width: 100%;
+  background-color: #1e00ff;
+  color: white;
+  border-bottom: 1px solid black;
 }
 nav li {
   display: inline;
+}
+nav a {
+  color: white;
 }
