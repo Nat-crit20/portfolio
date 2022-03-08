@@ -26,3 +26,18 @@ nav a {
   padding: 0 10px;
   text-decoration: none;
 }
+
+main {
+  background-color: #f5d505;
+  height: 1000px;
+}
+.about {
+  background-image: url("AdobeStock_241083104-1400x934.webp");
+}
+.about h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+.about span {
+  font-size: 2rem;
+}
